@@ -11,3 +11,6 @@ The diploma thesis deals with the detection of fake news on a specific domain, w
 
 ### Abstrakt
 Diplomová práca sa venuje detekcii falošných správ na špecifickej doméne, ktorou je slovenský jazyk za pomoci metód hlbokého učenia, a to konkrétne pomocou neurónových sietí. Práca je rozdelená na teoretickú a praktickú časť, kde teoretická časť je venovaná prehľadu o hlbokom učení, teda hlbokých neurónových sieťach a taktiež aj stručnému pohľadu na antisociálne správanie a falošné správy vyskytujúce sa v online prostredí. Detekcii falošných správ sa venuje praktická časť, v ktorej sa využili rôzne architektúry neurónových sietí. Práca pozostáva z dvoch experimentov a to detekcii politických a ekonomických správ a detekcii falošných správ zameraných na tému Covid-19.
+
+### Dataset
+https://drive.google.com/drive/folders/1ZNoSIKTkL6fo8Nag8JuVfbkeW0Rmbtm7?usp=sharing
