@@ -14,3 +14,17 @@ Diplomová práca sa venuje detekcii falošných správ na špecifickej doméne,
 
 ### Dataset
 https://drive.google.com/drive/folders/1ZNoSIKTkL6fo8Nag8JuVfbkeW0Rmbtm7?usp=sharing
+
+### Spustenie kódu
+Tento priečinok Fake-news-detection slúži na uloženie praktickej časti diplomovej práce, teda uloženie kódov. Práca je riešená ako výskumná úloha, ktorej prvotným cieľom je skúmanie rôznych modelov pri úlohe detekcie falošných správ. Výskumná úloha je orientovaná na detekciu falošných správ na špecifickej doméne, ktorou sú slovenské texty a táto úloha bola riešená pomocou vytvorenia modelov neurónových sietí a metód na automatickú identifikáciu falošných správ.
+
+Riešili sme dokopy dva experimenty, kde v prvom sme sa zaoberali detekciou falošných politických a ekonomických správ a v druhom detekciou falošných správ zameraných na tému Covid-19. Obidva experimenty boli vyhotovené na množinách dát, ktoré obsahovali slovenské texty článkov zo slovenských internetových zdrojov.
+
+V tomto priečinku môžeme vidieť dva podpriečinky, ktoré obsahujú kódy pre úlohu detekcie politických a ekonomických falošných správ a pre úlohu detekcie falošných správ zameraných na Covid-19. Pri obidvoch experimentoch sme množiny dát predspracovali dokopy trikrát, a to s ponechaním distribúcie cieľového atribútu s vymazanými stop slovami, s ponechanými stop slovami a s vybalansovaním trénovacej množiny s vymazanými stop slovami. Preto obidva podpriečinky disponujú tromi súbormi kódov. 
+
+Úlohy boli riešené za pomoci programovacieho jazyka Python, kde sme využili aj prácu s knižnicami Tensorflow a Keras a kód bol vytváraný za pomoci Jupyter notebook prostredia. ####1.
+Pred prvotným spustením kódov je potrebné mať nainštalovaný jazyk Python a prostredie Jupyter notebook, ktoré sme my využívali prostredníctvom Anacondy. 
+####2.
+Na spustenie kódu budú potrebné tiež už spomenuté knižnice, ktoré sú vypísané na začiatku každého súboru. Avšak, pred ich úplne prvým použitím ich je potrebné nainštalovať, preto sa používa príkaz „pip install názov knižnice“ pre tých, ktorí s týmito knižnicami ešte nepracovali. 
+####3.
+A nakoniec pred samotným spustením je potrebné tiež stiahnuť dáta, na ktorých sa vykonáva detekcia správ. Vyššie je link, ktorý obsahuje súbory datasetov na stiahnutie. Po otvorení linku sa tam nachádzajú dva priečinky, kde v jednom je uložený dataset pre detekciu správ na tému Covid-19 a v druhom sú uložené dva datasety pre detekciu politických a ekonomických správ. 
