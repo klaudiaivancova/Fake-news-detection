@@ -25,7 +25,9 @@ V tomto priečinku môžeme vidieť dva podpriečinky, ktoré obsahujú kódy pr
 Úlohy boli riešené za pomoci programovacieho jazyka Python, kde sme využili aj prácu s knižnicami Tensorflow a Keras a kód bol vytváraný za pomoci Jupyter notebook prostredia. 
 #### 1.
 Pred prvotným spustením kódov je potrebné mať nainštalovaný jazyk Python a prostredie Jupyter notebook, ktoré sme my využívali prostredníctvom Anacondy. 
+
 Python - https://www.python.org/
+
 Anaconda (Jupyter notebook) - https://www.anaconda.com/
 
 #### 2.
